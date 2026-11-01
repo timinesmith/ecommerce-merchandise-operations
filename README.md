@@ -2,7 +2,7 @@
 
 ## Executive summary
 
-Merchandise operations materials covering institutional apparel production, costing, scheduling, inventory planning, quality control, fulfillment, and Shopify workflows. The repository is anchored by a verified 2,500-unit school polo program managed through PhillyScreen LLC.
+Merchandise operations materials covering institutional apparel production, costing, scheduling, inventory planning, quality control, fulfillment, and Shopify workflows. The repository includes a documented 2,500-unit school polo **proposal** prepared through PhillyScreen LLC — a quote that did not go through (corrected Oct 31, 2026), retained as evidence of institutional quoting and costing discipline, not as completed work.
 
 ## Business problem
 
@@ -19,9 +19,9 @@ Merchandise programs fail when sales commitments are made before product cost, p
 
 ## Role and evidence basis
 
-**Real case basis:** Founder & Owner, PhillyScreen LLC. Timothy quoted, costed, scheduled, and managed the verified Lincoln High School polo program in 2022 and operated broader merchandise and Shopify programs for schools, universities, businesses, nonprofits, and artists.
+**Real case basis:** Founder & Owner, PhillyScreen LLC. Timothy quoted, costed, and structured the Lincoln High School polo proposal in 2022 — **a quote that did not go through and never proceeded to production** (corrected Oct 31, 2026, per Timi; earlier wording wrongly presented it as a managed/completed program). He operated broader merchandise and Shopify programs for schools, universities, businesses, nonprofits, and artists.
 
-**Demonstration status: Illustrative demonstration.** Worksheets are inspectable portfolio versions of the operating methods. The Lincoln case economics are documented; per-phase quantities are not published because the source records the program total and four-phase structure, not a public per-phase split.
+**Demonstration status: Illustrative demonstration.** Worksheets are inspectable portfolio versions of the operating methods. The Lincoln figures are documented QUOTED proposal values; per-phase quantities are not published because the source records the program total and four-phase structure, not a public per-phase split.
 
 ## Methods and tools
 
@@ -29,20 +29,20 @@ Unit economics, phased delivery, purchase-order discipline, production calendars
 
 ## Deliverables
 
-- [Lincoln High School polo program case study](case-studies/lincoln-high-school-polo-program.md)
+- [Lincoln High School polo proposal — quoting & costing case study (quote did not proceed)](case-studies/lincoln-high-school-polo-program.md)
 - [Production costing worksheet](worksheets/production-costing.csv)
 - [Phased production schedule](worksheets/production-schedule.csv)
 - [Inventory planning worksheet](worksheets/inventory-planning.csv)
 - [Shopify operations workflow](docs/shopify-operations-workflow.md)
 - [Quality and fulfillment controls](docs/quality-and-fulfillment.md)
 
-## Verified outcomes
+## Documented proposal figures (Lincoln HS quote — did NOT proceed to production)
 
-- 2,500 polos delivered through a four-phase structure.
-- $28,750 in contracted sales value.
+- 2,500 polos quoted through a four-phase structure.
+- $28,750 in quoted sales value.
 - $15,000 cost of goods.
-- $13,750 margin, equal to 47.8% of sales price.
-- Program planned around School District of Philadelphia net-30 payment after delivery through its Oracle payment system.
+- $13,750 planned margin, equal to 47.8% of the quoted price.
+- Proposal planned around School District of Philadelphia net-30 payment after delivery through its Oracle payment system.
 
 ## Skills demonstrated
 
