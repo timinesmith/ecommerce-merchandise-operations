@@ -1,0 +1,8 @@
+sku_group,size_or_variant,forecast_units,buffer_percent,planned_units,supplier_lead_time_days,reorder_trigger,note
+Core polo,XS,0,10,0,14,When available stock reaches buffer,Enter verified size-run forecast before ordering
+Core polo,S,0,10,0,14,When available stock reaches buffer,Template field
+Core polo,M,0,10,0,14,When available stock reaches buffer,Template field
+Core polo,L,0,10,0,14,When available stock reaches buffer,Template field
+Core polo,XL,0,10,0,14,When available stock reaches buffer,Template field
+Core polo,2XL,0,10,0,14,When available stock reaches buffer,Template field
+Program total,All variants,2500,0,2500,Program-specific,Phase review,Verified total program quantity
