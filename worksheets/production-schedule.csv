@@ -1,5 +1,5 @@
 phase,units,artwork_status,inventory_status,production_window,quality_check,delivery_target,invoice_trigger,status
-Phase 1,Part of 2500-unit program,Approved,Confirmed,To be scheduled,Required,Separate due date,Invoice issued at phase start,Documented structure
-Phase 2,Part of 2500-unit program,Approved,Confirmed,To be scheduled,Required,Separate due date,Per-phase invoice,Documented structure
-Phase 3,Part of 2500-unit program,Approved,Confirmed,To be scheduled,Required,Separate due date,Per-phase invoice,Documented structure
-Phase 4,Part of 2500-unit program,Approved,Confirmed,To be scheduled,Required,Separate due date,Per-phase invoice,Documented structure
+Phase 1,Part of proposed 2500-unit program,Proposed,Proposed,Proposed,Required,Separate due date,Invoice prepared at proposal stage,Proposed - quote did not proceed
+Phase 2,Part of proposed 2500-unit program,Proposed,Proposed,Proposed,Required,Separate due date,Per-phase invoice planned,Proposed - quote did not proceed
+Phase 3,Part of proposed 2500-unit program,Proposed,Proposed,Proposed,Required,Separate due date,Per-phase invoice planned,Proposed - quote did not proceed
+Phase 4,Part of proposed 2500-unit program,Proposed,Proposed,Proposed,Required,Separate due date,Per-phase invoice planned,Proposed - quote did not proceed

@@ -1,9 +1,9 @@
 cost_component,basis,units,unit_amount,total_amount,note
-Sales,Contracted program,2500,11.50,28750,Verified Lincoln High School program economics
+Sales,Quoted proposal price,2500,11.50,28750,Quoted Lincoln High School proposal economics (quote did not go through - Oct 31 2026 correction)
 Blank garments,Cost of goods component,2500,,,Included in total COGS; component split not published
 Decoration,Cost of goods component,2500,,,Included in total COGS; component split not published
 Setup and production,Cost of goods component,2500,,,Included in total COGS; component split not published
 Freight and handling,Cost of goods component,2500,,,Included in total COGS; component split not published
-Total cost of goods,Documented total,2500,6.00,15000,Verified program total
-Margin,Sales less COGS,2500,5.50,13750,Verified program total
-Margin percent,Share of sales,,,,Calculated from verified totals: 47.8%
+Total cost of goods,Documented total,2500,6.00,15000,Quoted proposal total
+Margin,Sales less COGS,2500,5.50,13750,Planned margin on quoted proposal (not realized)
+Margin percent,Share of sales,,,,Calculated from quoted totals: 47.8%
